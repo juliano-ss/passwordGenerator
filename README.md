@@ -1,6 +1,6 @@
 # Gerador de Senhas
 
-`![Gerador de senhas](GeradorSenha.png)`
+![Gerador de senhas](GeradorSenha.png)
 
 ## Descrição
 
