@@ -1,6 +1,6 @@
 # Gerador de Senhas
 
-![Gerador de senhas](GeradorSenha.png)
+![Gerador de senhas](https://github.com/juliano-ss/passwordGenerator/blob/main/img/GeradorSenha.png?raw=true)
 
 ## Descrição
 
