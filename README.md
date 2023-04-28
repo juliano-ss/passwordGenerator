@@ -1,5 +1,3 @@
-Claro, com prazer! Segue o README do seu projeto gerador de senha:
-
 # Gerador de Senhas
 
 ## Descrição
