@@ -4,7 +4,7 @@
 
 ## Descrição
 
-O Gerador de Senhas é um projeto web que permite que os usuários criem senhas complexas e seguras com apenas um clique de um botão. Ele utiliza as linguagens de programação Javascript, HTML e CSS para criar senhas aleatórias que incluem letras maiúsculas e minúsculas, números e caracteres especiais.
+O Gerador de Senhas é um projeto web que permite que os usuários criem senhas complexas e seguras com apenas um clique de um botão. Ele utiliza as linguagens de programação Javascript, HTML e CSS para criar senhas aleatórias que incluem letras maiúsculas e minúsculas e números.
 
 ## Como usar
 
