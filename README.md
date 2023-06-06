@@ -21,4 +21,4 @@ O Gerador de Senhas também permite que os usuários personalizem suas senhas co
 
 ## Contribuição
 
-Se você quiser contribuir com o Gerador de Senhas, sinta-se à vontade.
+Se você quiser contribuir com o Gerador de Senhas, sinta-se à vontade. Este projeto foi desenvolvido com o intuito de estudos, por isso é muito básico.
